@@ -1,0 +1,157 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.top-menu {
+	width: 1300px;
+	margin: 0 auto;
+	line-height: 64px;
+}
+
+.top-menu ul li {
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.top-menu img {
+	float: left;
+}
+
+.top-menu a {
+	display: block;
+	height: 64px;
+	width: auto;
+	text-decoration: none;
+	color: #000;
+	padding: 0 0px;
+	font-family: Roboto, sans-serif;
+	text-transform: uppercase;
+}
+
+.container {
+	width: 1300px;
+	margin: 0 auto;
+	font-family: Roboto, sans-serif;
+}
+
+.left-sb {
+	width: 200px;
+	background-color: #eee;
+	float: left;
+}
+
+.left-sb h2 {
+	width: 200px;
+	padding: 0 auto;
+	margin: 20px;
+	font-size: 32px; 
+}
+
+.left-sb ul {
+	margin: 0 20px;
+	width: 200px;
+	list-style: none;
+	text-transform: uppercase;
+	line-height: 35px;
+}
+
+.right-sb {
+	width: 1000px;
+	height: 637px;
+	display: block;
+	background-color: #fff;
+	float: right;
+}
+
+.right-sb h5 {
+	margin: 0px 40px;
+}
+
+.right-sb h2 {
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: 20px 40px;
+	display: flex;
+}
+
+.article {
+	width: 900px;
+	height: 200px;
+	margin: 0 20px;
+	display: flex;
+}
+
+.art-image {
+	margin: 25px 20px;
+	width: 230px;
+	height: 130px;
+	border-radius: 10px;
+	background-size: cover;
+}
+
+.art-about {
+	width: 500px;
+	height: 150px;
+	margin: 30px 0;
+}
+
+.art-about h4 {
+	margin: 10px;
+	line-height: 25px;
+}
+
+.art-about span {
+	margin: 10px;
+	color: grey;
+	font-style: italic;
+}
+
+.tags {
+	margin: 10px;
+	color: pink;
+	font-style: italic;
+	border-bottom: 1px dotted black;
+}
+
+.art-about img{
+	width: 15px;
+	height: 15px;
+	margin: 0 -10px -2px 0;
+}
+
+.tags span {
+	margin: 12px;
+}
+
+#first-image {
+	background-image: url(https://img.championat.com/news/big/l/p/super-mario-bros_16284207331043937711.jpg);
+}
+
+#second-image {
+	background-image: url(https://goldclan.ru/wp-content/uploads/2021/09/Brawl-Talk-s-Meg-i-obnovlenie-stage-servera-do-38.101-1024x504.jpg);
+}
+
+#third-image {
+	background-image: url(https://clashroyale.com/uploaded-images-blog/_720xAUTO_crop_center-center_90/1008914282_1635154847.jpg?mtime=20211025094047);
+}
+
+#fourth-image {
+	background-image: url(https://pubg.cdn.gmru.net/ms/e92950a665cb954bd2970899b27b836c.jpg)
+}
+
+#fifth-image {
+	background-image: url(https://images.stopgame.ru/news/2021/10/28/c270x153/j6iQyUSWZqo1CIwF1vHrzQ/rZGUKbWIF.jpg)
+}
+
+#sixth-image {
+	background-image: url(https://images.stopgame.ru/news/2021/09/16/c270x153/k8SE--KwO24zNZyViPZK9Q/j9r4Bcx.jpg)
+}
+
+.video-v {
+	margin-left: 100px;
+}
+
+.video-v h2 {
+	line-height: 70px;
+}
