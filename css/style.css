@@ -95,6 +95,11 @@
 	height: 150px;
 	margin: 30px 0;
 }
+.art-about a {
+	text-decoration: none;
+	margin-inline: 10px;
+	color: black;
+}
 
 .art-about h4 {
 	margin: 10px;
@@ -125,26 +130,22 @@
 }
 
 #first-image {
-	background-image: url(https://img.championat.com/news/big/l/p/super-mario-bros_16284207331043937711.jpg);
-}
-
-#second-image {
 	background-image: url(https://goldclan.ru/wp-content/uploads/2021/09/Brawl-Talk-s-Meg-i-obnovlenie-stage-servera-do-38.101-1024x504.jpg);
 }
 
-#third-image {
+#second-image {
 	background-image: url(https://clashroyale.com/uploaded-images-blog/_720xAUTO_crop_center-center_90/1008914282_1635154847.jpg?mtime=20211025094047);
 }
 
-#fourth-image {
-	background-image: url(https://pubg.cdn.gmru.net/ms/e92950a665cb954bd2970899b27b836c.jpg)
+#third-image {
+	background-image: url(https://pubg.cdn.gmru.net/ms/e92950a665cb954bd2970899b27b836c.jpg);
 }
 
-#fifth-image {
+#fourth-image {
 	background-image: url(https://images.stopgame.ru/news/2021/10/28/c270x153/j6iQyUSWZqo1CIwF1vHrzQ/rZGUKbWIF.jpg)
 }
 
-#sixth-image {
+#fifth-image {
 	background-image: url(https://images.stopgame.ru/news/2021/09/16/c270x153/k8SE--KwO24zNZyViPZK9Q/j9r4Bcx.jpg)
 }
 
