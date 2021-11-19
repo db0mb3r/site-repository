@@ -97,8 +97,9 @@
 }
 .art-about a {
 	text-decoration: none;
-	margin-inline: 10px;
 	color: black;
+	display: flex;
+	margin-left: 10px;
 }
 
 .art-about h4 {
